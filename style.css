@@ -1,0 +1,91 @@
+
+/* Style Sheet For Web Development Skills Page*/
+
+/* Page Styles */
+
+html { 
+    background: url(images/abstract-21851_1920.jpg) no-repeat center fixed; 
+    background-size: cover;
+}
+
+body {
+    margin:auto;
+}
+
+div {
+
+    border-radius: 25px;
+    width: 600px;
+    margin: 50px auto;
+    padding: 40px 75px;
+    background-color: rgb(255,255,255); 
+ }
+
+ .HTML {
+     border: 2px solid #E44D26;
+     box-shadow: 2px 2px rgb(231, 97, 64)
+
+ }
+.CSGO{
+    border: 2px solid rgb(1,112,186) ;
+    box-shadow: 2px 2px rgb(1, 112, 186) 
+}
+
+.Junior{
+    border: 2px solid #F7DF1E;
+    box-shadow: 2px 2px #F7DF1E;
+}
+
+
+/* Text Styles */
+
+h1, h2, h3 {
+    font-family: 'Raleway', sans-serif;
+}
+h2 {
+    font-variant: small-caps;
+}
+
+h1{
+    color:white;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 45px;
+    text-shadow: 2px 2px black;
+}
+
+
+
+p, ul {
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 0.5px;
+}
+
+/* Tutorial Notes */
+
+.tutorial{
+    font-size:12px;
+}
+span{
+    font-family: papyrus;
+}
+
+/* Section Headers */
+
+
+
+/* Link styles */
+a{
+    color: blue;
+    text-decoration: none
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Image Style */
+img {
+
+    vertical-align: Middle;
+}
